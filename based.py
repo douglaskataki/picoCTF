@@ -1,7 +1,7 @@
 import binascii
 
 def main():
-
+    # You need to copy and paste the "codes" asked by the problem
     #Example: bin = "01110011 01101111 01100011 01101011 01100101 01110100"
     bin = input("Binary: ")
     # takes out the spaces
